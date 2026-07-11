@@ -135,7 +135,7 @@ This is one of my favorite projects - it combines n8n orchestration, LLM enginee
 ## Related Projects
 
 - [CV Extractor](https://github.com/HammamVR/CVExtractor-n8n) - Automated CV data processing
-- [Telegram AI Assistant](https://github.com/HammamVR/n8n/tree/main/telegram-ai-assistant) - Email automation bot
+
 ---
 
 *Built with n8n | Powered by Gemini AI | Inspired by the need for clarity*
